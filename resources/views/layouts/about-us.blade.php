@@ -22,7 +22,7 @@
                     frameBorder="0"
                     scrolling="auto"
                     height="650px"
-                    width="700px"
+                    width="100%"
                 ></iframe>
             </div>
         </div>

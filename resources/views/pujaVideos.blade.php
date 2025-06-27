@@ -104,7 +104,7 @@
           </a>
         </div>
       </div>
-      {{-- <div class="col-lg-4 gajanChadakVideo">
+      <div class="col-lg-4 gajanChadakVideo">
         <div class="sigma_portfolio-item magnific-img">
           <a class="image-popup-vertical-fit" href="assets/img/puja/gajanvideo11.mp4">
             <video width="320" height="240" controls>
@@ -153,7 +153,7 @@
             </video> 
           </a>
         </div>
-      </div> --}}
+      </div>
     </div>
   </div>
 </div>

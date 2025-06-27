@@ -15,7 +15,7 @@
         </div>
       </div>
 
-      <div class="portfolio-filter row">        
+      <div class="portfolio-filter row">      
         <div class="col-lg-4 gajanChadak">
           <div class="sigma_portfolio-item magnific-img">
             <a class="image-popup-vertical-fit" href="assets/img/puja/gajan3.jpeg">
@@ -101,6 +101,35 @@
             </a>
           </div>
         </div>
+        
+        <div class="col-lg-4 gajanChadak">
+          <div class="sigma_portfolio-item magnific-img">
+            <a class="image-popup-vertical-fit" href="assets/img/puja/2025-01-23Bimali4.jpeg">
+              <img src="assets/img/puja/2025-01-23Bimali4.jpeg" alt="portfolio">
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-4 gajanChadak">
+          <div class="sigma_portfolio-item magnific-img">
+            <a class="image-popup-vertical-fit" href="assets/img/puja/2025-01-23Bimali3.jpeg">
+              <img src="assets/img/puja/2025-01-23Bimali3.jpeg" alt="portfolio">
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-4 gajanChadak">
+          <div class="sigma_portfolio-item magnific-img">
+            <a class="image-popup-vertical-fit" href="assets/img/puja/2025-01-23Bimali2.jpeg">
+              <img src="assets/img/puja/2025-01-23Bimali2.jpeg" alt="portfolio">
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-4 gajanChadak">
+          <div class="sigma_portfolio-item magnific-img">
+            <a class="image-popup-vertical-fit" href="assets/img/puja/2025-01-23Bimali1.jpeg">
+              <img src="assets/img/puja/2025-01-23Bimali1.jpeg" alt="portfolio">
+            </a>
+          </div>
+        </div> 
         <div class="col-lg-4 gajanChadak">
           <div class="sigma_portfolio-item magnific-img">
             <a class="image-popup-vertical-fit" href="assets/img/puja/gajan16.jpeg">

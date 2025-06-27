@@ -2,13 +2,12 @@
 <aside class="sigma_aside sigma_aside-left">
 
     <a class="navbar-brand" href="{{ route('home') }}">
-      <img src="assets/img/logo.png" alt="logo" style="height: 60px;"> 
+      <img src="assets/img/logo.png" alt="logo" style="height: 60px; max-width: 270px;"> 
     </a>
 
     <!-- Menu -->
     <ul>
-      <li class="menu-item"><a class="@if(request()->segment(1) == '')active @endif" href="{{ route('home') }}">Home
-        safsafs</a></li>
+      <li class="menu-item"><a class="@if(request()->segment(1) == '')active @endif" href="{{ route('home') }}">Home</a></li>
       <li class="menu-item"><a class="@if(request()->segment(1) == 'about-us')active @endif" href="{{ route('about-us') }}">About Us</a></li>
       <li class="menu-item"><a class="@if(request()->segment(1) == 'donation')active @endif" href="{{ route('donation') }}">Donation</a></li>
       <li class="menu-item">
